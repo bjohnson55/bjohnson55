@@ -1,5 +1,5 @@
 # My Website
-> This project revolves around creating my own web presence online. Utilizing a Boostrapmade template I have created my own portfolio site that is all about me, my interests, and my accomplishments.
+> This project revolves around creating my own web presence online. Utilizing a template I have created my own portfolio site that is all about me, my interests, and my contact info.
 > Visit site [_here_](https://happy-sea-03bd0c510.1.azurestaticapps.net).
 
 ## Table of Contents
@@ -22,15 +22,11 @@
 - Microsoft Azure - Static Web application
 - NameCheap - Domain Name Registrar
 - Google Analytics
-- Bootstrapmade - Portfolio Template
 
 ## Features
 - Photos
 - Navigation Pane
-- Social Media Links
-- Google Maps API (work in progress)
-- Contact Form (work in progress)
-- Charts, Favicon, and images
+- Contact Feature
 
 ## Screenshots
 ![Example Contact Page](./screenshots/contact.png)

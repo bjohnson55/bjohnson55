@@ -33,7 +33,7 @@
 - Charts, Favicon, and images
 
 ## Screenshots
-![Example Contact Page](./screenshots/contact page.png)
+![Example Contact Page](./screenshots/contact.png)
 
 ## Project Status
 Project is: _in progress_

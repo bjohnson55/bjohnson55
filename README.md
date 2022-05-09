@@ -33,7 +33,7 @@
 - Charts, Favicon, and images
 
 ## Screenshots
-![Example Contact](Macintosh HD/Users/blakejohnson/Vice Construction Dropbox/Blake Johnson/My Mac (Blake’s MacBook Pro)/Desktop/Digital Product Management/contact page.png)
+![Example Contact](./Macintosh HD/Users/blakejohnson/Vice Construction Dropbox/Blake Johnson/My Mac (Blake’s MacBook Pro)/Desktop/Digital Product Management/contact page.png)
 
 ## Project Status
 Project is: _in progress_

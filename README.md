@@ -32,7 +32,7 @@
 ![Example Contact Page](./screenshots/contact.png)
 
 ## Project Status
-Project is: _in progress_
+Throughout my career, I will update this page periodically as I progess in my accomplishments.
 
 ## Acknowledgements
 - This project was inspired by Prof. Mike Colbert (Professor of Business Analytics and Information Systems, Tippie College of Business, The University of Iowa)

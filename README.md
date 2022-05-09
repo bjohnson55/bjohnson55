@@ -33,7 +33,7 @@
 - Charts, Favicon, and images
 
 ## Screenshots
-![Example Contact](/Users/blakejohnson/Vice Construction Dropbox/Blake Johnson/My Mac (Blake’s MacBook Pro)/Desktop/contact page.png)
+![Example Contact Page](/contact page.png)
 
 ## Project Status
 Project is: _in progress_
